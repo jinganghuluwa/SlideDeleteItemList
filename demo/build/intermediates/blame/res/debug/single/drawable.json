@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/build/intermediates/res/merged/debug/drawable/btn_pause.png",
+        "source": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/src/main/res/drawable/btn_pause.png"
+    },
+    {
+        "merged": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/build/intermediates/res/merged/debug/drawable/download.png",
+        "source": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/src/main/res/drawable/download.png"
+    },
+    {
+        "merged": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/build/intermediates/res/merged/debug/drawable/back.png",
+        "source": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/src/main/res/drawable/back.png"
+    },
+    {
+        "merged": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/build/intermediates/res/merged/debug/drawable/account.png",
+        "source": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/src/main/res/drawable/account.png"
+    },
+    {
+        "merged": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/build/intermediates/res/merged/debug/drawable/offline.png",
+        "source": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/src/main/res/drawable/offline.png"
+    },
+    {
+        "merged": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/build/intermediates/res/merged/debug/drawable/btn_play.png",
+        "source": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/src/main/res/drawable/btn_play.png"
+    },
+    {
+        "merged": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/build/intermediates/res/merged/debug/drawable/fullscreen_close.png",
+        "source": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/src/main/res/drawable/fullscreen_close.png"
+    },
+    {
+        "merged": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/build/intermediates/res/merged/debug/drawable/play.png",
+        "source": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/src/main/res/drawable/play.png"
+    },
+    {
+        "merged": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/build/intermediates/res/merged/debug/drawable/line.png",
+        "source": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/src/main/res/drawable/line.png"
+    },
+    {
+        "merged": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/build/intermediates/res/merged/debug/drawable/volume.png",
+        "source": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/src/main/res/drawable/volume.png"
+    },
+    {
+        "merged": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/build/intermediates/res/merged/debug/drawable/cancle.png",
+        "source": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/src/main/res/drawable/cancle.png"
+    },
+    {
+        "merged": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/build/intermediates/res/merged/debug/drawable/progressbar.xml",
+        "source": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/src/main/res/drawable/progressbar.xml"
+    },
+    {
+        "merged": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/build/intermediates/res/merged/debug/drawable/popdown.9.png",
+        "source": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/src/main/res/drawable/popdown.9.png"
+    },
+    {
+        "merged": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/build/intermediates/res/merged/debug/drawable/popup.9.png",
+        "source": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/src/main/res/drawable/popup.9.png"
+    },
+    {
+        "merged": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/build/intermediates/res/merged/debug/drawable/seekbar_style.xml",
+        "source": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/src/main/res/drawable/seekbar_style.xml"
+    },
+    {
+        "merged": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/build/intermediates/res/merged/debug/drawable/bg_pop_item.xml",
+        "source": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/src/main/res/drawable/bg_pop_item.xml"
+    },
+    {
+        "merged": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/build/intermediates/res/merged/debug/drawable/fullscreen_open.png",
+        "source": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/src/main/res/drawable/fullscreen_open.png"
+    },
+    {
+        "merged": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/build/intermediates/res/merged/debug/drawable/popbg.png",
+        "source": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/src/main/res/drawable/popbg.png"
+    }
+]

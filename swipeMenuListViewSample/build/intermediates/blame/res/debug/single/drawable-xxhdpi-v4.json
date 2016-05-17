@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/tongzhichao/projects/studyprojects/SlideDelete/swipeMenuListViewSample/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_action_good.png",
+        "source": "/home/tongzhichao/projects/studyprojects/SlideDelete/swipeMenuListViewSample/src/main/res/drawable-xxhdpi/ic_action_good.png"
+    },
+    {
+        "merged": "/home/tongzhichao/projects/studyprojects/SlideDelete/swipeMenuListViewSample/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_action_important.png",
+        "source": "/home/tongzhichao/projects/studyprojects/SlideDelete/swipeMenuListViewSample/src/main/res/drawable-xxhdpi/ic_action_important.png"
+    },
+    {
+        "merged": "/home/tongzhichao/projects/studyprojects/SlideDelete/swipeMenuListViewSample/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_action_share.png",
+        "source": "/home/tongzhichao/projects/studyprojects/SlideDelete/swipeMenuListViewSample/src/main/res/drawable-xxhdpi/ic_action_share.png"
+    },
+    {
+        "merged": "/home/tongzhichao/projects/studyprojects/SlideDelete/swipeMenuListViewSample/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png",
+        "source": "/home/tongzhichao/projects/studyprojects/SlideDelete/swipeMenuListViewSample/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/tongzhichao/projects/studyprojects/SlideDelete/swipeMenuListViewSample/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_action_about.png",
+        "source": "/home/tongzhichao/projects/studyprojects/SlideDelete/swipeMenuListViewSample/src/main/res/drawable-xxhdpi/ic_action_about.png"
+    },
+    {
+        "merged": "/home/tongzhichao/projects/studyprojects/SlideDelete/swipeMenuListViewSample/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_action_favorite.png",
+        "source": "/home/tongzhichao/projects/studyprojects/SlideDelete/swipeMenuListViewSample/src/main/res/drawable-xxhdpi/ic_action_favorite.png"
+    },
+    {
+        "merged": "/home/tongzhichao/projects/studyprojects/SlideDelete/swipeMenuListViewSample/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_action_discard.png",
+        "source": "/home/tongzhichao/projects/studyprojects/SlideDelete/swipeMenuListViewSample/src/main/res/drawable-xxhdpi/ic_action_discard.png"
+    }
+]

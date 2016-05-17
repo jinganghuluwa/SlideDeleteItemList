@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/build/intermediates/res/merged/debug/menu/input_info.xml",
+        "source": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/src/main/res/menu/input_info.xml"
+    },
+    {
+        "merged": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/build/intermediates/res/merged/debug/menu/upload.xml",
+        "source": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/src/main/res/menu/upload.xml"
+    },
+    {
+        "merged": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/build/intermediates/res/merged/debug/menu/media_play.xml",
+        "source": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/src/main/res/menu/media_play.xml"
+    },
+    {
+        "merged": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/build/intermediates/res/merged/debug/menu/download_list.xml",
+        "source": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/src/main/res/menu/download_list.xml"
+    },
+    {
+        "merged": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/build/intermediates/res/merged/debug/menu/account_info.xml",
+        "source": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/src/main/res/menu/account_info.xml"
+    },
+    {
+        "merged": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/build/intermediates/res/merged/debug/menu/play.xml",
+        "source": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/src/main/res/menu/play.xml"
+    },
+    {
+        "merged": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/build/intermediates/res/merged/debug/menu/downloading.xml",
+        "source": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/src/main/res/menu/downloading.xml"
+    }
+]

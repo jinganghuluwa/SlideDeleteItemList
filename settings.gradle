@@ -1,0 +1,4 @@
+include ':app'
+include ':swipeMenuListView'
+include ':swipeMenuListViewSample'
+include ':demo'

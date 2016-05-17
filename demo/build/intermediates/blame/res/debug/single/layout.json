@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/build/intermediates/res/merged/debug/layout/spinner_view.xml",
+        "source": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/src/main/res/layout/spinner_view.xml"
+    },
+    {
+        "merged": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/build/intermediates/res/merged/debug/layout/notification_layout.xml",
+        "source": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/src/main/res/layout/notification_layout.xml"
+    },
+    {
+        "merged": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/build/intermediates/res/merged/debug/layout/download_list.xml",
+        "source": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/src/main/res/layout/download_list.xml"
+    },
+    {
+        "merged": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/build/intermediates/res/merged/debug/layout/media_play.xml",
+        "source": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/src/main/res/layout/media_play.xml"
+    },
+    {
+        "merged": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/build/intermediates/res/merged/debug/layout/media_speed_play.xml",
+        "source": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/src/main/res/layout/media_speed_play.xml"
+    },
+    {
+        "merged": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/tongzhichao/projects/studyprojects/SlideDelete/demo/src/main/res/layout/main.xml"
+    }
+]
